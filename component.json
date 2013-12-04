@@ -1,8 +1,12 @@
 {
   "name": "move",
-  "description": "move items in array from one index to another",
+  "repo": "esundahl/move",
+  "description": "Changes objects position within an array",
+  "version": "0.0.1",
+  "keywords": [],
   "dependencies": {},
   "development": {},
+  "license": "MIT",
   "main": "move.js",
   "scripts": [
     "move.js"
