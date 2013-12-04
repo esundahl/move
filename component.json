@@ -1,0 +1,10 @@
+{
+  "name": "move",
+  "description": "move items in array from one index to another",
+  "dependencies": {},
+  "development": {},
+  "main": "move.js",
+  "scripts": [
+    "move.js"
+  ]
+}
